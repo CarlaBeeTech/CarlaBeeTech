@@ -37,7 +37,7 @@ in both web development and data analytics as I work toward a career in tech.
 
 ## 📚 Currently Learning
 
-- 🎓 Google Data Analytics Certificate — Course 6 of 9
+- 🎓 Google Data Analytics Certificate 
 - 🎓 Microsoft Power BI Data Analyst Certificate
 
 ---
