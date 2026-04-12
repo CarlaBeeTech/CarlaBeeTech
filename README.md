@@ -26,9 +26,8 @@ in both web development and data analytics as I work toward a career in tech.
 | Project | Description | Live |
 |--------|-------------|------|
 | [Weather Dashboard](https://github.com/CarlaBeeTech/weather-dashboard) | Real-time weather app with 5-day forecast | [View App](https://carlabeetech.github.io/weather-dashboard/) |
-| [Shuttle Landing Page](https://github.com/CarlaBeeTech/shuttle-landing-page) | — | — |
+| [Shuttle Landing Page](https://github.com/CarlaBeeTech/shuttle-landing-page) | Landing page for shuttle & transportation services — event rides, airport transfers, group bookings | — |
 | [Tiki Trucking](https://github.com/CarlaBeeTech/Tiki-Trucking) | — | — |
-
 ---
 
 ## 📚 Currently Learning
