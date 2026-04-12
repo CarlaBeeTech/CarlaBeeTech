@@ -23,11 +23,16 @@ in both web development and data analytics as I work toward a career in tech.
 
 ## 🚀 Projects
 
+### 💻 Web Development
 | Project | Description | Live |
-|--------|-------------|------|
-| [Weather Dashboard](https://github.com/CarlaBeeTech/weather-dashboard) | Real-time weather app with 5-day forecast | [View App](https://carlabeetech.github.io/weather-dashboard/) |
-| [Shuttle Landing Page](https://github.com/CarlaBeeTech/shuttle-landing-page) | Landing page for shuttle & transportation services — event rides, airport transfers, group bookings | [View App](https://carlabeetech.github.io/shuttle-landing-page/) |
-| [Tiki Trucking](https://github.com/CarlaBeeTech/Tiki-Trucking) | Business site for an independent trucker seeking local contracts for pickup & delivery | [View App](https://carlabeetech.github.io/Tiki-Trucking/) |
+|---|---|---|
+| [Weather Dashboard](your-link) | Real-time weather app with 5-day forecast | [View App](your-link) |
+| [Shuttle Landing Page](your-link) | Landing page for shuttle & transportation services | [View App](your-link) |
+| [Tiki Trucking](your-link) | Business site for an independent trucker | [View App](your-link) |
+
+### 📊 Data Analytics
+| Project | Description | Live |
+|---|---|---|
 | [Excel Portfolio Tracker](https://github.com/CarlaBeeTech/Excel-project-portfolio-tracker) | Professional Excel workbook with KPI Dashboard, Gantt Chart & Pivot Tables | [View Project](https://github.com/CarlaBeeTech/Excel-project-portfolio-tracker) |
 
 ## 📚 Currently Learning
