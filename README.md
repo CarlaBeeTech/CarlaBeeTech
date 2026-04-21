@@ -1,7 +1,10 @@
 # Hi, I'm Carla 👋
 
-I'm a self-taught developer and aspiring data analyst — building projects
-in both web development and data analytics as I work toward a career in tech.
+Full Stack Developer & Health Data Analyst with 20+ years of federal data governance experience at the Social Security Administration — where data accuracy wasn't a best practice, it was the law.
+
+I build web applications and data analytics dashboards that combine technical skill with real-world domain expertise. Currently focused on health data analytics with a specialization in women's health equity.
+
+📍 Kansas City, MO &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/carlabeetech) &nbsp;|&nbsp; 📊 [Live Dashboard](https://app.powerbi.com/links/BxBc7Vm1_E?ctid=27797b60-dfe9-4de0-abbf-4563eaf93996&pbi_source=linkShare)
 
 ---
 
