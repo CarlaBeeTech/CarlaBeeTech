@@ -8,9 +8,7 @@ in both web development and data analytics as I work toward a career in tech.
 ## 🛠️ Tech & Tools
 
 **Web Development**
-| [Weather Dashboard](https://github.com/CarlaBeeTech/weather-dashboard) | Real-time weather app with 5-day forecast | [View App](https://carlabeetech.github.io/weather-dashboard/) |
-| [Shuttle Landing Page](https://github.com/CarlaBeeTech/shuttle-landing-page) | Landing page for shuttle & transportation services | [View App](https://carlabeetech.github.io/shuttle-landing-page/) |
-| [Tiki Trucking](https://github.com/CarlaBeeTech/Tiki-Trucking) | Business site for an independent trucker | [View App](https://carlabeetech.github.io/Tiki-Trucking/) |
+
 
 **Data Analytics**
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -26,9 +24,9 @@ in both web development and data analytics as I work toward a career in tech.
 ### 💻 Web Development
 | Project | Description | Live |
 |---|---|---|
-| [Weather Dashboard](your-link) | Real-time weather app with 5-day forecast | [View App](your-link) |
-| [Shuttle Landing Page](your-link) | Landing page for shuttle & transportation services | [View App](your-link) |
-| [Tiki Trucking](your-link) | Business site for an independent trucker | [View App](your-link) |
+| [Weather Dashboard](https://github.com/CarlaBeeTech/weather-dashboard) | Real-time weather app with 5-day forecast | [View App](https://carlabeetech.github.io/weather-dashboard/) |
+| [Shuttle Landing Page](https://github.com/CarlaBeeTech/shuttle-landing-page) | Landing page for shuttle & transportation services | [View App](https://carlabeetech.github.io/shuttle-landing-page/) |
+| [Tiki Trucking](https://github.com/CarlaBeeTech/Tiki-Trucking) | Business site for an independent trucker | [View App](https://carlabeetech.github.io/Tiki-Trucking/) |
 
 ### 📊 Data Analytics
 | Project | Description | Live |
