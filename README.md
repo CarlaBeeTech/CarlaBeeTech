@@ -35,10 +35,7 @@ in both web development and data analytics as I work toward a career in tech.
 |---|---|---|
 | [Excel Portfolio Tracker](https://github.com/CarlaBeeTech/Excel-project-portfolio-tracker) | Professional Excel workbook with KPI Dashboard, Gantt Chart & Pivot Tables | [View Project](https://github.com/CarlaBeeTech/Excel-project-portfolio-tracker) |
 
-## 📚 Currently Learning
 
-- 🎓 Google Data Analytics Certificate 
-- 🎓 Microsoft Power BI Data Analyst Certificate
 
 ---
 
