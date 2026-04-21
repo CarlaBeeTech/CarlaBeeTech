@@ -33,7 +33,7 @@ in both web development and data analytics as I work toward a career in tech.
 ### 📊 Data Analytics
 | Project | Description | Live |
 |---|---|---|
-| [The Menopause Project](https://github.com/CarlaBeeTech/menopause-project) | Health data analytics dashboard examining menopause symptom prevalence, racial disparities & workforce impact | [View Project](https://github.com/CarlaBeeTech/menopause-project) |
+| [The Menopause Project](https://github.com/CarlaBeeTech/menopause-project) | Health data analytics dashboard examining menopause symptom prevalence, racial disparities & workforce impact | [View Live Dashboard](https://app.powerbi.com/links/BxBc7Vm1_E?ctid=27797b60-dfe9-4de0-abbf-4563eaf93996&pbi_source=linkShare) |
 | [Excel Portfolio Tracker](https://github.com/CarlaBeeTech/Excel-project-portfolio-tracker) | Professional Excel workbook with KPI Dashboard, Gantt Chart & Pivot Tables | [View Project](https://github.com/CarlaBeeTech/Excel-project-portfolio-tracker) |
 
 
