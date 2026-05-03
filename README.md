@@ -32,7 +32,7 @@ I build web applications and data analytics dashboards that combine technical sk
 | [Shuttle Landing Page](https://github.com/CarlaBeeTech/shuttle-landing-page) | Landing page for shuttle & transportation services | [View App](https://carlabeetech.github.io/shuttle-landing-page/) |
 | [Tiki Trucking](https://github.com/CarlaBeeTech/Tiki-Trucking) | Business site for an independent trucker | [View App](https://carlabeetech.github.io/Tiki-Trucking/) |
 | [Locd'by Roe](https://github.com/CarlaBeeTech/Locd-by-Roe) | Hair salon website — locs, braids & barber services | [View App](https://carlabeetech.github.io/Locd-by-Roe/) |
-| [TRT Management](https://github.com/CarlaBeeTech/TRT-Management) | Property management company website | [View App]([https://carlabeetech.github.io/TRT-Management/](https://carlabeetech.github.io/trt-management-landing.html/)) |
+| [TRT Management](https://github.com/CarlaBeeTech/TRT-Management) | Property management company website | [View App]([https://carlabeetech.github.io/TRT-Management/](https://carlabeetech.github.io/trt-management-landing.html/) |
 
 
 ### 📊 Data Analytics
