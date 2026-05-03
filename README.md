@@ -25,13 +25,15 @@ I build web applications and data analytics dashboards that combine technical sk
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 🚀 Projects
-
 ### 💻 Web Development
 | Project | Description | Live |
 |---|---|---|
 | [Weather Dashboard](https://github.com/CarlaBeeTech/weather-dashboard) | Real-time weather app with 5-day forecast | [View App](https://carlabeetech.github.io/weather-dashboard/) |
 | [Shuttle Landing Page](https://github.com/CarlaBeeTech/shuttle-landing-page) | Landing page for shuttle & transportation services | [View App](https://carlabeetech.github.io/shuttle-landing-page/) |
 | [Tiki Trucking](https://github.com/CarlaBeeTech/Tiki-Trucking) | Business site for an independent trucker | [View App](https://carlabeetech.github.io/Tiki-Trucking/) |
+| [Locd'by Roe](https://github.com/CarlaBeeTech/Locd-by-Roe) | Hair salon website — locs, braids & barber services | [View App](https://carlabeetech.github.io/Locd-by-Roe/) |
+| [TRT Management](https://github.com/CarlaBeeTech/TRT-Management) | Property management company website | [View App](https://carlabeetech.github.io/TRT-Management/) |
+
 
 ### 📊 Data Analytics
 | Project | Description | Live |
