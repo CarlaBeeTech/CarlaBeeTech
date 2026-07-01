@@ -11,6 +11,7 @@ GRC & cybersecurity professional with 20+ years of federal data governance exper
 | Project | Description | Link |
 |---|---|---|
 | [IT Risk Assessment & Control Mapping (NIST CSF 2.0 / CIS Controls v8)](https://github.com/CarlaBeeTech/grc-risk-assessment-nist-cis) | Full GRC engagement simulation for a fictional community bank — risk register, control mapping, and a findings/recommendations report | [View Repo](https://github.com/CarlaBeeTech/grc-risk-assessment-nist-cis) |
+| [IT Audit — SOC 2 ITGC Readiness Assessment](https://github.com/CarlaBeeTech/it-audit) | SOC 2 Type II readiness audit for a fictional healthcare-tech company — 22 controls tested across Security, Availability, and Confidentiality Trust Services Criteria (NIST 800-53 mapped), with findings, risk ratings, and remediation tracking | [View](https://github.com/CarlaBeeTech/it-audit/blob/main/SOC2_ITGC_Audit_Report.pdf) \| [Repo](https://github.com/CarlaBeeTech/it-audit) |
 
 *More security/GRC projects in progress — check back for updates.*
 
