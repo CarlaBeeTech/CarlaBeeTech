@@ -1,6 +1,6 @@
 # Hi, I'm Carla 👋
 
-GRC & cybersecurity professional with 20+ years of federal data governance experience at the Social Security Administration — where data accuracy wasn't a best practice, it was the law. Currently pursuing a transition into governance, risk, and compliance (GRC) roles, building on CompTIA Security+ and hands-on IT risk assessment work in GRC frameworks.
+Compliance and data governance professional with 20+ years in federal government, including two decades at the Social Security Administration — where data accuracy wasn't a best practice, it was the law. Currently pursuing a transition into governance, risk, and compliance (GRC) and cybersecurity, building on CompTIA Security+ and hands-on IT risk assessment work in GRC frameworks.
 
 📍 Kansas City, MO | 🔗 [LinkedIn](https://www.linkedin.com/in/carlabeetech) | 📊 [Live Dashboard](https://app.powerbi.com/links/BxBc7Vm1_E?ctid=27797b60-dfe9-4de0-abbf-4563eaf93996&pbi_source=linkShare)
 
