@@ -1,6 +1,6 @@
 # Hi, I'm Carla 👋
 
-Federal compliance professional with 20+ years at the Social Security Administration, 
+Federal compliance professional with 20+ years 
 where data accuracy and policy adherence weren't best practices — they were the law. 
 I'm now transitioning into IT and cybersecurity, applying that governance foundation 
 to GRC, risk, and security operations work.
